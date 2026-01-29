@@ -1,0 +1,241 @@
+{
+  "filename": "image.png",
+  "results": [
+    {
+      "text": "Zylker Electronics Hub",
+      "confidence": 0.9978
+    },
+    {
+      "text": "14B, Northern Street",
+      "confidence": 0.7878
+    },
+    {
+      "text": "Greater South Avenue",
+      "confidence": 0.3977
+    },
+    {
+      "text": "New York New York 10001",
+      "confidence": 0.7899
+    },
+    {
+      "text": "INVOICE",
+      "confidence": 0.9999
+    },
+    {
+      "text": "U.S.A",
+      "confidence": 0.9774
+    },
+    {
+      "text": "Invoice#",
+      "confidence": 0.8049
+    },
+    {
+      "text": "INV-OOOOO1",
+      "confidence": 0.983
+    },
+    {
+      "text": "Invoice Date",
+      "confidence": 0.9993
+    },
+    {
+      "text": "05 Aug 2024",
+      "confidence": 0.4754
+    },
+    {
+      "text": "Terms",
+      "confidence": 1
+    },
+    {
+      "text": "Due on Receipt",
+      "confidence": 0.9882
+    },
+    {
+      "text": "Due Date",
+      "confidence": 0.9594
+    },
+    {
+      "text": "05 Aug 2024",
+      "confidence": 0.8553
+    },
+    {
+      "text": "Bill To",
+      "confidence": 0.9993
+    },
+    {
+      "text": "Ship To",
+      "confidence": 0.9999
+    },
+    {
+      "text": "Ms. Mary D. Dunton",
+      "confidence": 0.6085
+    },
+    {
+      "text": "1324 Hinkle Lake Road",
+      "confidence": 0.7804
+    },
+    {
+      "text": "Needham",
+      "confidence": 1
+    },
+    {
+      "text": "1324 Hinkle Lake Road",
+      "confidence": 0.8736
+    },
+    {
+      "text": "Needham",
+      "confidence": 1
+    },
+    {
+      "text": "02192 Maine",
+      "confidence": 0.9334
+    },
+    {
+      "text": "02192 Maine",
+      "confidence": 0.892
+    },
+    {
+      "text": "#",
+      "confidence": 1
+    },
+    {
+      "text": "Item & Description",
+      "confidence": 0.847
+    },
+    {
+      "text": "Rate",
+      "confidence": 0.459
+    },
+    {
+      "text": "Amount",
+      "confidence": 1
+    },
+    {
+      "text": "Camera",
+      "confidence": 1
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.9891
+    },
+    {
+      "text": "s899.00",
+      "confidence": 0.6052
+    },
+    {
+      "text": "899.00",
+      "confidence": 0.9999
+    },
+    {
+      "text": "DSLR camera with advanced shooting",
+      "confidence": 0.8404
+    },
+    {
+      "text": "capabilities",
+      "confidence": 1
+    },
+    {
+      "text": "2",
+      "confidence": 1
+    },
+    {
+      "text": "Fitness Tracker",
+      "confidence": 1
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.9894
+    },
+    {
+      "text": "$129.00",
+      "confidence": 0.7336
+    },
+    {
+      "text": "$129.00",
+      "confidence": 0.7568
+    },
+    {
+      "text": "Activity tracker with heart rate monitoring",
+      "confidence": 0.9005
+    },
+    {
+      "text": "3",
+      "confidence": 0.4949
+    },
+    {
+      "text": "Laptop",
+      "confidence": 1
+    },
+    {
+      "text": "1.00",
+      "confidence": 0.9911
+    },
+    {
+      "text": "$1,199.00",
+      "confidence": 0.6915
+    },
+    {
+      "text": "$1,199.00",
+      "confidence": 0.9873
+    },
+    {
+      "text": "Lightweight laptop with a powerful processor",
+      "confidence": 0.7461
+    },
+    {
+      "text": "Sub Total",
+      "confidence": 0.9991
+    },
+    {
+      "text": "$2,227.00",
+      "confidence": 0.6625
+    },
+    {
+      "text": "Tax Rate",
+      "confidence": 0.9933
+    },
+    {
+      "text": "5.00%",
+      "confidence": 0.9924
+    },
+    {
+      "text": "Thanks for shopping with us",
+      "confidence": 0.7748
+    },
+    {
+      "text": "Total",
+      "confidence": 1
+    },
+    {
+      "text": "S2,338.35",
+      "confidence": 0.4588
+    },
+    {
+      "text": "Terms & Conditions",
+      "confidence": 0.7594
+    },
+    {
+      "text": "Balance Due",
+      "confidence": 0.8793
+    },
+    {
+      "text": "S2,338.35",
+      "confidence": 0.934
+    },
+    {
+      "text": "Full payment is due upon receipt of this invoice.",
+      "confidence": 0.4923
+    },
+    {
+      "text": "Late payments may incur additional charges or",
+      "confidence": 0.8496
+    },
+    {
+      "text": "interest as per the applicable laws.",
+      "confidence": 0.6564
+    },
+    {
+      "text": "Qty",
+      "confidence": 0.9991
+    }
+  ]
+}

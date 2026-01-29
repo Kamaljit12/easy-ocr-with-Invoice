@@ -1,0 +1,17 @@
+--index-url https://download.pytorch.org/whl/cu118
+
+torch
+torchvision
+torchaudio
+
+fastapi
+uvicorn
+python-multipart
+
+easyocr
+pillow
+opencv-python
+
+langchain-core
+langchain-community
+pdf2image
