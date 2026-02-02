@@ -1,0 +1,21 @@
+--index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+torchaudio
+pandas
+fastapi
+uvicorn
+python-multipart
+
+easyocr
+pillow
+opencv-python
+
+langchain-core
+langchain-community
+langchain_groq
+langgraph
+
+pdf2image
+
+# run this command to install requirements: pip install -r requirements.txt --index-url https://pypi.org/simple
